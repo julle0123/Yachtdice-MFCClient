@@ -12,7 +12,7 @@
 <!-- MFC -->
 <img src="https://img.shields.io/badge/MFC-0078D7?style=for-the-badge&logo=windows&logoColor=white" alt="MFC Badge" />
 <!-- Threading -->
-<img src="https://img.shields.io/badge/Threading-POSIX%20%7C%20WinAPI-6E40C9?style=for-the-badge" alt="Threading Badge" />
+<img src="https://img.shields.io/badge/Multithreading-WinAPI-6E40C9?style=for-the-badge" alt="Threading Badge" />
 <!-- Socket -->
 <img src="https://img.shields.io/badge/Socket%20Programming-TCP%2FIP-239120?style=for-the-badge" alt="Socket Badge" />
 
