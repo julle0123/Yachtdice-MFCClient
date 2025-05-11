@@ -3,7 +3,45 @@
 ## 📅 프로젝트 기간
 2023.11.06 ~ 2023.12.05 (약 5주)
 
+## 🛠 기술 스택
+
+<div align="center">
+
+<!-- C++ -->
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge" />
+<!-- MFC -->
+<img src="https://img.shields.io/badge/MFC-0078D7?style=for-the-badge&logo=windows&logoColor=white" alt="MFC Badge" />
+<!-- Threading -->
+<img src="https://img.shields.io/badge/Threading-POSIX%20%7C%20WinAPI-6E40C9?style=for-the-badge" alt="Threading Badge" />
+<!-- Socket -->
+<img src="https://img.shields.io/badge/Socket%20Programming-TCP%2FIP-239120?style=for-the-badge" alt="Socket Badge" />
+
+</div>
+
 ---
+
+### 💻 C++
+
+- 객체지향 프로그래밍(OOP)을 기반으로 프로그램 구조를 설계하고 구현했습니다.
+- 클래스, 상속, 다형성 등 C++의 핵심 개념을 활용하여 안정적이고 확장 가능한 코드를 작성했습니다.
+
+### 🪟 MFC (Microsoft Foundation Class)
+
+- C++ 기반의 Windows GUI 애플리케이션을 MFC로 개발했습니다.
+- 버튼, 대화 상자 등 UI 요소와 사용자 이벤트 처리를 구현했습니다.
+
+### 🔀 멀티스레드 프로그래밍
+
+- MFC의 `AfxBeginThread()`를 사용하여 멀티스레드를 구현했으며, 내부적으로 Windows API 기반의 스레드 구조를 활용했습니다.
+- 네트워크 소켓 수신과 UI 처리를 각각 별도의 스레드에서 실행하여 프로그램의 반응성을 개선했습니다.
+
+### 🌐 소켓 통신 (Socket Programming)
+
+- TCP/IP 기반 소켓 통신을 구현하여 클라이언트-서버 구조의 프로그램을 제작했습니다.
+- send/recv, connect/bind/listen 등의 시스템 콜을 활용해 네트워크 프로토콜에 대한 이해도를 높였습니다.
+
+---
+
 MFC, socket통신을 이용한 2인 보드 게임 개발
 
 ![image](https://github.com/homekepa/Yacht_Dice/assets/91517560/c6090f09-8f2e-4d8c-a18b-94134665584f)
